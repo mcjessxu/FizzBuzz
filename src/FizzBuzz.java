@@ -34,6 +34,12 @@ class FizzBuzz {
 //
 //            }
 //        }
+// Five things that are similar or different between Java and Python:
+// 1. has to set an initial value and a range for variables in Java
+// 2. i++ instead of i+=1
+// 3. more comlicated boolean expression in Java
+// 4. similar usage of if statement - if, else if, else
+// 5. need sout before print in Java
         }
     }
 
