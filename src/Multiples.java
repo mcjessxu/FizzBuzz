@@ -13,7 +13,7 @@ public class Multiples {
             // Print our appropriate result.
             if (!divisibleBy3 && !divisibleBy5) {
 
-            } else {git
+            } else {
                 list.add(i);
             }
         }
